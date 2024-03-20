@@ -31,7 +31,7 @@ django-storages = {version = "1.13.2", extras = ["azure"]}
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.13.0"
 ipdb = "^0.13.13"
-black = "^23.7.0"
+black = "^24.3.0"
 
 [build-system]
 requires = ["poetry-core"]
