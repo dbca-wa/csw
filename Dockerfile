@@ -20,7 +20,7 @@ RUN --mount=type=cache,target=/root/.cache \
 ##################################################################################
 
 # Prepare the base environment.
-FROM python:3.11.11-slim
+FROM python:3.14.0rc2-slim
 LABEL org.opencontainers.image.authors=asi@dbca.wa.gov.au
 LABEL org.opencontainers.image.source=https://github.com/dbca-wa/csw
 
