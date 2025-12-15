@@ -14,7 +14,7 @@ dependencies = [
   "python-dotenv==1.2.1",
   "dj-database-url==3.0.1",
   "gunicorn==23.0.0",
-  "django-reversion==6.0.0",
+  "django-reversion==6.1.0",
   "dbca-utils==2.1.5",
   "whitenoise[brotli]==6.11.0",
   "lxml[html-clean]==6.0.2",
